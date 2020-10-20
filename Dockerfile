@@ -25,7 +25,7 @@ RUN apt-get update && apt-get -y install --no-install-recommends\
 WORKDIR /root
 RUN git clone https://github.com/openbabel/openbabel.git &&\
   cd openbabel &&\
-  git checkout tags/openbabel-3-0-0
+  git checkout tags/openbabel-3-1-1
 
 WORKDIR /root/openbabel/build
 RUN cmake ..\
