@@ -8,7 +8,9 @@ For more on Open Babel look [here](http://openbabel.org/)
 
 | Branch | OBabel version | Docker tags   |
 |--------|----------------|---------------|
-| master | 3.0.0          | latest, 3.0.0 |
+| master | 3.0.0          | latest        |
+| 3.1.1  | 3.1.1          | 3.1.1         |
+| 3.0.0  | 3.0.0          | 3.0.0         |
 | 2.4.1  | 2.4.1          | 2.4.1         |
 | 2.3.2  | 2.3.2          | 2.3.2         |
 
